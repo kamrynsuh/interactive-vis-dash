@@ -31,4 +31,8 @@ Source: https://github.com/uwdata/d3-tutorials
 The World Bank Data, Science-and-Technology, 1960-2017 (science-and-technology.csv): The World Bank has tracked global human development by indicators such as climate change, economy, education, environment, gender equality, health, and science and technology since 1960. In this set of datasets, you will only work on science and technology.
 Source: https://github.com/ZeningQu/World-Bank-Data-by-Indicators
 
+### Visualizations
+
+![proj3db](https://github.com/kamrynsuh/interactive-vis-dash/assets/78179030/e05a6370-8f37-41d1-b65b-ff4d75ef8a50)
+
 
